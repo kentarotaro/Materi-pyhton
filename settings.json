@@ -1,0 +1,7 @@
+{
+    "window.zoomLevel": 1,
+    "editor.fontSize": 15,
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.iconTheme": "vscode-icons",
+    "python.REPL.enableREPLSmartSend": false,
+}
